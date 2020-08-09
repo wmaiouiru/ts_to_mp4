@@ -75,7 +75,9 @@ def main(args):
     elif (input_url or template_url) and working_dir and out_name:
         run_ts_to_mp4(working_dir, out_name, input_url=input_url, template_url=template_url)
     else:
+        EXAMPLE_USAGE = "python ts_to_mp4.py --working_dir <working_dir> --out_name <out_name> --template_url https://<host>/<path>/index"
         parser.print_help()
+        print(f"EXMAPLE USAGE: {EXAMPLE_USAGE}")
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run TS to mp4')
 
