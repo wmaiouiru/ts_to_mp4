@@ -26,3 +26,23 @@ so on
 - pylint
 - Quality check
 - add pytest (create example site)
+
+
+
+
+- Try
+  - Youtube
+  - Vimeo
+  - Tiktok
+  - Twitter
+  - Reddit
+
+- Run in Docker
+- Run in Kubernetes
+- Check Performance
+- Create different agent
+- Refactor into classes
+- Figure out how to host video for chromecast
+- Figure out how to setup remote server
+- Figure out how to queue things up
+- FIgure out how to parse index file
