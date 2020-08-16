@@ -23,6 +23,4 @@ so on
 # TODO
 - Need to be able to handle rate limiting smarter
 - Need to be able to handle retry smarter
-
-
-
+- pylint
