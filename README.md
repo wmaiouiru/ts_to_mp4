@@ -26,3 +26,13 @@ so on
 - pylint
 - Quality check
 - add pytest (create example site)
+
+
+
+
+- Try
+  - Youtube
+  - Vimeo
+  - Tiktok
+  - Twitter
+  - Reddit
