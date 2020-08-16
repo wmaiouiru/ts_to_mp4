@@ -24,3 +24,4 @@ so on
 - Need to be able to handle rate limiting smarter
 - Need to be able to handle retry smarter
 - pylint
+- Quality check
