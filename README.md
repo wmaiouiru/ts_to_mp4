@@ -25,4 +25,4 @@ so on
 - Need to be able to handle retry smarter
 - pylint
 - Quality check
-- add pytest
+- add pytest (create example site)
